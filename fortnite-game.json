@@ -13186,8 +13186,8 @@
       "backgrounds": {
         "backgrounds": [
           {
-            "backgroundimage": "https://static.wikia.nocookie.net/fortnite/images/3/34/Spider-Verse_-_Lobby_Background_-_Fortnite.png",
-            "stage": "season3100",
+            "backgroundimage": "https://static.wikia.nocookie.net/fortnite/images/0/0f/Chapter_4_Season_4_-_Lobby_Background_-_Fortnite.png",
+            "stage": "defaultnotris",
             "_type": "DynamicBackground",
             "key": "lobby"
           },
@@ -21383,8 +21383,8 @@
             {
             "hidden": false,
             "_type": "CommonUI Emergency Notice Base",
-            "title": "RaidFN",
-            "body": "Made by Vegemite"
+            "title": "NO Hybrid",
+            "body": "Made by Vegemite\nDiscord: discord.gg/uscgd7dPb2"
             }
         ]
         },
